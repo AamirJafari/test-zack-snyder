@@ -5,7 +5,7 @@ const axios = require('axios');
  
 require('dotenv').config();
  
-const token = "5480509396:AAEHqpsMLoJMujfzJopxiBuNpyLHan5QDQo";
+
 let bot;
  
 if (process.env.NODE_ENV === 'production') {
